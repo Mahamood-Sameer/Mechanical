@@ -49,7 +49,7 @@
     margin: 5px;
     display: block;
 }
-@media (max-width:939px) {
+@media (max-width:939px) and (min-width:400px) {
     .app_body > h2{
         font-size: 18px;
     }
