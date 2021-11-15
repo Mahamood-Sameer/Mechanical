@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+.app_body{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.app_body > h2{
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    align-items: center;
+}
+.arrow{
+    font-size: 50px !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    color: blue;
+}
+.app_body_content{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.card{
+    margin: 5px !important;
+    border: 1px solid lightgrey;
+    width: 50vw;
+    padding: 10px;
+}
+.card:nth-child(odd){
+    background-color: rgb(233, 233, 233);
+}
+.profsnames{
+    display: flex;
+    align-items: center;
+}
+.arrowicons{
+    font-size: 17px !important;
+    margin-right: 5px;
+}
+.booklink{
+    text-decoration: none;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    margin: 10px;
+}
+@media (max-width:939px) {
+    .app_body > h2{
+        font-size: 18px;
+    }
+    .arrow{
+        font-size: 40px !important;
+    }
+    .card{
+        width: 80vw;
+    }
+}
+@media (max-width:400px) {
+    .app_body > h2{
+        font-size: 10px;
+    }
+    .arrow{
+        font-size: 20px !important;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .card{
+        width: 93vw;
+        padding: 5px;
+    }
+    .typography{
+        font-size: 12px !important;
+    }
+    .booklink{
+        word-wrap: normal;
+        width: fit-content !important;
+    }
+}
