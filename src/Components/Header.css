@@ -20,7 +20,7 @@
     margin-left: 10px;
 }
 
-@media (max-width:939px) and (min-width:400px) {
+@media (max-width:939px) and (min-width:600px) {
     .header > img{
         width: 70px;
     } 
@@ -28,7 +28,7 @@
         font-size: 22px !important;
     }
 }
-@media (max-width:400px) {
+@media (max-width:599px) {
     .header{
         padding: 5px;
     }

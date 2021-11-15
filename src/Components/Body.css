@@ -51,7 +51,7 @@
     text-align: center;
     width: fit-content;
 }
-@media (max-width:939px) and (min-width:400px) {
+@media (max-width:939px) and (min-width:600px) {
     .app_body > h2{
         font-size: 18px;
     }
@@ -63,7 +63,7 @@
         width: 80vw;
     }
 }
-@media (max-width:400px) {
+@media (max-width:599px) {
     .app_body > h2{
         font-size: 6px;
     }
