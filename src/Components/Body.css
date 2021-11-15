@@ -46,7 +46,8 @@
     background-color: blue;
     color: white;
     border-radius: 5px;
-    margin: 10px;
+    margin: 5px;
+    display: block;
 }
 @media (max-width:939px) {
     .app_body > h2{
@@ -61,22 +62,24 @@
 }
 @media (max-width:400px) {
     .app_body > h2{
-        font-size: 10px;
+        font-size: 6px;
     }
     .arrow{
-        font-size: 20px !important;
+        font-size: 14px !important;
         margin-left: 5px;
         margin-right: 5px;
     }
     .card{
-        width: 93vw;
-        padding: 5px;
+        width: 97vw;
+        padding: 5px !important;
     }
     .typography{
-        font-size: 12px !important;
+        font-size: 7px !important;
     }
     .booklink{
+        text-align: center;
         word-wrap: normal;
         width: fit-content !important;
+        font-size: 6px !important;
     }
 }

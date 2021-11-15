@@ -8,3 +8,27 @@
   flex-grow: 1;
   display: flex;
 }
+
+.love{
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 35px !important;
+  color: red !important;
+}
+
+footer{
+  background-color: whitesmoke;
+  border-top: 1px solid lightgray;
+  font-weight: bold !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  font-size: 20px !important;
+}
+@media (max-width:400px) {
+  footer{
+    font-size: 16px !important;
+    padding: 10px;
+  }
+}

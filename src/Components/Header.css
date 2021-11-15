@@ -33,9 +33,9 @@
         padding: 5px;
     }
     .header > img{
-        width: 45px;
+        width: 40px;
     } 
     .header h1{
-        font-size: 18px !important;
+        font-size: 16px !important;
     }
 }
