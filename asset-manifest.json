@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Mechanical-/static/css/main.367e128c.chunk.css",
-    "main.js": "/Mechanical-/static/js/main.32f168f4.chunk.js",
-    "main.js.map": "/Mechanical-/static/js/main.32f168f4.chunk.js.map",
+    "main.css": "/Mechanical-/static/css/main.485c28ee.chunk.css",
+    "main.js": "/Mechanical-/static/js/main.1c98e698.chunk.js",
+    "main.js.map": "/Mechanical-/static/js/main.1c98e698.chunk.js.map",
     "runtime-main.js": "/Mechanical-/static/js/runtime-main.7eceb01b.js",
     "runtime-main.js.map": "/Mechanical-/static/js/runtime-main.7eceb01b.js.map",
-    "static/js/2.94917426.chunk.js": "/Mechanical-/static/js/2.94917426.chunk.js",
-    "static/js/2.94917426.chunk.js.map": "/Mechanical-/static/js/2.94917426.chunk.js.map",
+    "static/js/2.99f0d470.chunk.js": "/Mechanical-/static/js/2.99f0d470.chunk.js",
+    "static/js/2.99f0d470.chunk.js.map": "/Mechanical-/static/js/2.99f0d470.chunk.js.map",
     "static/js/3.78716af7.chunk.js": "/Mechanical-/static/js/3.78716af7.chunk.js",
     "static/js/3.78716af7.chunk.js.map": "/Mechanical-/static/js/3.78716af7.chunk.js.map",
     "index.html": "/Mechanical-/index.html",
-    "static/css/main.367e128c.chunk.css.map": "/Mechanical-/static/css/main.367e128c.chunk.css.map",
-    "static/js/2.94917426.chunk.js.LICENSE.txt": "/Mechanical-/static/js/2.94917426.chunk.js.LICENSE.txt",
+    "static/css/main.485c28ee.chunk.css.map": "/Mechanical-/static/css/main.485c28ee.chunk.css.map",
+    "static/js/2.99f0d470.chunk.js.LICENSE.txt": "/Mechanical-/static/js/2.99f0d470.chunk.js.LICENSE.txt",
     "static/media/Durgapur.91e2be56.svg": "/Mechanical-/static/media/Durgapur.91e2be56.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7eceb01b.js",
-    "static/js/2.94917426.chunk.js",
-    "static/css/main.367e128c.chunk.css",
-    "static/js/main.32f168f4.chunk.js"
+    "static/js/2.99f0d470.chunk.js",
+    "static/css/main.485c28ee.chunk.css",
+    "static/js/main.1c98e698.chunk.js"
   ]
 }
