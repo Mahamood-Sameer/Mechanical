@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mechanical-/static/css/main.c5cd180b.chunk.css",
+    "main.css": "/Mechanical-/static/css/main.9b4e88c2.chunk.css",
     "main.js": "/Mechanical-/static/js/main.1c98e698.chunk.js",
     "main.js.map": "/Mechanical-/static/js/main.1c98e698.chunk.js.map",
     "runtime-main.js": "/Mechanical-/static/js/runtime-main.7eceb01b.js",
@@ -10,14 +10,14 @@
     "static/js/3.78716af7.chunk.js": "/Mechanical-/static/js/3.78716af7.chunk.js",
     "static/js/3.78716af7.chunk.js.map": "/Mechanical-/static/js/3.78716af7.chunk.js.map",
     "index.html": "/Mechanical-/index.html",
-    "static/css/main.c5cd180b.chunk.css.map": "/Mechanical-/static/css/main.c5cd180b.chunk.css.map",
+    "static/css/main.9b4e88c2.chunk.css.map": "/Mechanical-/static/css/main.9b4e88c2.chunk.css.map",
     "static/js/2.99f0d470.chunk.js.LICENSE.txt": "/Mechanical-/static/js/2.99f0d470.chunk.js.LICENSE.txt",
     "static/media/Durgapur.91e2be56.svg": "/Mechanical-/static/media/Durgapur.91e2be56.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7eceb01b.js",
     "static/js/2.99f0d470.chunk.js",
-    "static/css/main.c5cd180b.chunk.css",
+    "static/css/main.9b4e88c2.chunk.css",
     "static/js/main.1c98e698.chunk.js"
   ]
 }
