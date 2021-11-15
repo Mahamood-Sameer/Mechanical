@@ -70,7 +70,7 @@ function Body() {
                 <br />
                 <br />
 
-               <p style={{"display":"flex","alignItems":"center"}} > <YouTubeIcon /> And You can find the class recordings <a href="https://www.youtube.com/playlist?list=PLrlnmW33DpzZ2qqnZsG4wS7ji6R3NVX_D" style={{"marginLeft":"5px"}} > here </a> </p>
+               <p>And You can find the class recordings <a href="https://www.youtube.com/playlist?list=PLrlnmW33DpzZ2qqnZsG4wS7ji6R3NVX_D"> here </a> </p>
               </Typography>
             </AccordionDetails>
           </Accordion>
